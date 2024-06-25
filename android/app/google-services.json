@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644283074697",
+    "project_id": "infinity-messenger-170b0",
+    "storage_bucket": "infinity-messenger-170b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644283074697:android:859371f141ea4278101e58",
+        "android_client_info": {
+          "package_name": "com.example.infinity_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcqec9925CT1-61Q6ysnUwMZ6Rw44qVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
